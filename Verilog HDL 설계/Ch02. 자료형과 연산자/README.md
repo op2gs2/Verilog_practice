@@ -1,4 +1,4 @@
-# Verilog HDL Annotated Examples (English Only)
+# Verilog HDL Annotated Examples
 
 This collection explains essential Verilog HDL concepts through short, heavily commented code examples. It is designed **for reading and understanding the code**, rather than as a required execution workflow.
 
